@@ -7,7 +7,7 @@
 // function is an example of a so-called "factory" function, which creates    |
 // objects which are then managed by the object and finally dealloced         |
 // automatically with the deconstructor.                                      |
-///////////////////////////////////////// (c)opyright sebastian jensen / 2025 /
+///////////////////////////////////////////////////////////////////////////////
 
 #include <utility> // std::forward
 

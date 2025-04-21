@@ -4,7 +4,7 @@
 // F-25 ENGINE / Core Data Structure |________________________________________.
 //   Written as part of an example engine for students attending Forsbergs    |
 // school. Optimized for clarity and demonstrative purposes, not performance. |
-///////////////////////////////////////// (c)opyright sebastian jensen / 2025 /
+///////////////////////////////////////////////////////////////////////////////
 
 #include <stdlib.h>
 #include "Result.h"

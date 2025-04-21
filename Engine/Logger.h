@@ -3,7 +3,7 @@
 // Logger.h ///////////////////////
 // F-25 ENGINE / Logging system   |___________________________________________.
 //   Example of an object oriented logging system.                            |
-///////////////////////////////////////// (c)opyright sebastian jensen / 2025 /
+///////////////////////////////////////////////////////////////////////////////
 
 #include "Common.h"
 

@@ -3,7 +3,7 @@
 // ProfileTimer.h /////////////////
 // F-25 ENGINE / Simple Timer     |___________________________________________.
 //   A simple timer for automated instrumentation based profiling.            |
-///////////////////////////////////////// (c)opyright sebastian jensen / 2025 /
+///////////////////////////////////////////////////////////////////////////////
 
 #include "Common.h"
 #include "Logger.h"
