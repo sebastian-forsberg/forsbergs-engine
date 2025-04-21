@@ -1,5 +1,8 @@
+.gitignore
 .vscode
 logs
 .clangd
 build
 Main
+.DS_Store
+
