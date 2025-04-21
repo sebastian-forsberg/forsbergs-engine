@@ -1,8 +1,15 @@
-.gitignore
-.vscode
+# OS X files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Custom
 logs
 .clangd
 build
 Main
-.DS_Store
-
+.vscode
